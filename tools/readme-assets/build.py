@@ -355,7 +355,7 @@ SKILLS = [
      "Plateformes Kubernetes construites de zéro, en GitOps avec Argo CD et Helm, jusqu'à une flotte de 7 clusters "
      "sur 4 clouds.", ["EKS", "AKS", "GKE", "OVH MKS", "Helm", "Argo CD"]),
     ("cloud", "lu", "cloud-cog", "Cloud multi-provider & souverain", "Le bon cloud pour vos contraintes",
-     "Infrastructure Kubernetes SecNumCloud construite de zéro pour la DGE (via Bloomflow), plateforme HDS sur le cloud souverain S3NS.",
+     "Infrastructure Kubernetes SecNumCloud construite de zéro sur Outscale, plateforme HDS sur le cloud souverain S3NS.",
      ["AWS", "Azure", "GCP", "OVHcloud", "Scaleway", "Outscale"]),
     ("iac", "lu", "code-xml", "Infrastructure as Code & CI/CD", "100 % en code, versionné et revu",
      "CI avec OIDC, sans clé statique. Création d'un environnement ramenée de 2 jours à 30 minutes.",
@@ -453,9 +453,9 @@ MISSIONS = [
     ("globe", "Registre Internet", "F2R2",
      "Audit (82 actions, −19 % de budget projeté), AWS Organization de 5 comptes en IaC, puis infogérance.",
      ["AWS", "EKS", "Terragrunt"]),
-    ("landmark", "Secteur public", "DGE, via Bloomflow",
-     "Infrastructure Kubernetes SecNumCloud construite de zéro sur Outscale : partenaire, budget, intégration.",
-     ["SecNumCloud", "Outscale"]),
+    ("headset", "Infogérance", "Caast.TV",
+     "Gestion et maintenance de l'infrastructure Kubernetes sur AWS, fiabilisation et automatisation des points critiques.",
+     ["Kubernetes", "AWS", "Argo CD"]),
     ("hospital", "Santé publique", "Epiconcept",
      "Trois ans d'accompagnement : Ansible, puis déploiements on-premise hors ligne sur RHEL 8, en HA.",
      ["Ansible", "RHEL 8", "Docker"]),
@@ -495,7 +495,7 @@ CAREER = [
      "racine des incidents par LLM.", True),
     ("2021 →", "Plateforme SaaS d'open innovation", "Senior SRE, Lead SRE, puis Principal Platform Engineer",
      "7 clusters Kubernetes sur 4 clouds, 80+ plateformes clientes, ~180 plateformes migrées après une "
-     "acquisition, SecNumCloud, AIOps, ISO 27001.", True),
+     "acquisition, SecNumCloud pour la DGE, AIOps, ISO 27001.", True),
     ("2016 →", "WizOps", "Fondateur · consultant DevOps / SRE et formateur",
      "Défense, e-santé, santé publique, SaaS, e-commerce : audits, build, migrations et infogérance. "
      "Formations DevOps (La Capsule, Isoset).", True),
