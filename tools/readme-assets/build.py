@@ -352,10 +352,10 @@ def featured(theme):
 
 SKILLS = [
     ("kubernetes", "si", "kubernetes", "Kubernetes & platform engineering", "Des plateformes prêtes pour la prod",
-     "Plateformes Kubernetes from scratch, en GitOps avec Argo CD et Helm, jusqu'à une flotte de 7 clusters "
+     "Plateformes Kubernetes construites de zéro, en GitOps avec Argo CD et Helm, jusqu'à une flotte de 7 clusters "
      "sur 4 clouds.", ["EKS", "AKS", "GKE", "OVH MKS", "Helm", "Argo CD"]),
     ("cloud", "lu", "cloud-cog", "Cloud multi-provider & souverain", "Le bon cloud pour vos contraintes",
-     "Infrastructure Kubernetes SecNumCloud from scratch pour la DGE, plateforme HDS sur le cloud souverain S3NS.",
+     "Infrastructure Kubernetes SecNumCloud construite de zéro pour la DGE (via Bloomflow), plateforme HDS sur le cloud souverain S3NS.",
      ["AWS", "Azure", "GCP", "OVHcloud", "Scaleway", "Outscale"]),
     ("iac", "lu", "code-xml", "Infrastructure as Code & CI/CD", "100 % en code, versionné et revu",
      "CI avec OIDC, sans clé statique. Création d'un environnement ramenée de 2 jours à 30 minutes.",
@@ -453,8 +453,8 @@ MISSIONS = [
     ("globe", "Registre Internet", "F2R2",
      "Audit (82 actions, −19 % de budget projeté), AWS Organization de 5 comptes en IaC, puis infogérance.",
      ["AWS", "EKS", "Terragrunt"]),
-    ("landmark", "Secteur public", "DGE",
-     "Infrastructure Kubernetes SecNumCloud from scratch sur Outscale : partenaire, budget, intégration.",
+    ("landmark", "Secteur public", "DGE, via Bloomflow",
+     "Infrastructure Kubernetes SecNumCloud construite de zéro sur Outscale : partenaire, budget, intégration.",
      ["SecNumCloud", "Outscale"]),
     ("hospital", "Santé publique", "Epiconcept",
      "Trois ans d'accompagnement : Ansible, puis déploiements on-premise hors ligne sur RHEL 8, en HA.",
@@ -496,7 +496,7 @@ CAREER = [
     ("2021 →", "Plateforme SaaS d'open innovation", "Senior SRE, Lead SRE, puis Principal Platform Engineer",
      "7 clusters Kubernetes sur 4 clouds, 80+ plateformes clientes, ~180 plateformes migrées après une "
      "acquisition, SecNumCloud, AIOps, ISO 27001.", True),
-    ("2021 →", "WizOps · missions freelance", "Consultant DevOps / SRE et formateur",
+    ("2016 →", "WizOps", "Fondateur · consultant DevOps / SRE et formateur",
      "Défense, e-santé, santé publique, SaaS, e-commerce : audits, build, migrations et infogérance. "
      "Formations DevOps (La Capsule, Isoset).", True),
     ("2019", "Coopengo", "Ingénieur DevOps",
@@ -589,7 +589,7 @@ def project(theme, key, icon, name, tag, desc, cta):
 
 PROJECTS = [
     ("wizops", "logo", "WizOps", "Infogérance Kubernetes & Cloud",
-     "Ma société : build ou reprise 100 % code, run 24/7, sécurité, FinOps et agents IA qui investiguent "
+     "Ma société, fondée en 2016 : build ou reprise 100 % code, run 24/7, sécurité, FinOps et agents IA qui investiguent "
      "vos alertes.", "github.com/wizops-cloud"),
     ("wizstatus", ("lu", "activity"), "WizStatus", "Monitoring & status pages",
      "10+ types de checks, sondes Go multi-cluster, alerting multi-canal et analyse de cause racine par LLM.",
