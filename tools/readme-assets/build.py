@@ -269,7 +269,7 @@ def hero():
                     "du MVP à la flotte multi-cloud.", "dm400", 28, BRAND["muted"], 1180)
     x = 96
     for ic, label in [("cloud-cog", "Kubernetes & multi-cloud"), ("shield-check", "SecNumCloud · HDS"),
-                      ("bot", "DevOps & IA"), ("map-pin", "Paris · à distance")]:
+                      ("bot", "DevOps & IA"), ("map-pin", "Vannes · à distance")]:
         x += pill(s, x, 568, label, "dm500", 22, BRAND["ink"], "#FFFFFF0F", "#3FC1C950", h=50, padx=20,
                   icon=("lu", ic, BRAND["p400"])) + 14
     lab = "Supermalter · 100 % de satisfaction"

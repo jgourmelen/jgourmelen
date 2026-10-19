@@ -1,6 +1,6 @@
 <!-- Visuels générés par tools/readme-assets/build.py -->
 <p align="center">
-  <a href="https://wizops.fr/about"><img alt="Julien Gourmelen, ingénieur DevOps / SRE et fondateur de WizOps : je construis votre infrastructure Kubernetes & Cloud, puis je l'opère. 15+ ans de DevOps et de SRE, Kubernetes et multi-cloud, SecNumCloud et HDS, Paris et à distance." src="https://raw.githubusercontent.com/jgourmelen/jgourmelen/main/assets/hero.svg" width="100%"></a>
+  <a href="https://wizops.fr/about"><img alt="Julien Gourmelen, ingénieur DevOps / SRE et fondateur de WizOps : je construis votre infrastructure Kubernetes & Cloud, puis je l'opère. 15+ ans de DevOps et de SRE, Kubernetes et multi-cloud, SecNumCloud et HDS, près de Vannes et à distance." src="https://raw.githubusercontent.com/jgourmelen/jgourmelen/main/assets/hero.svg" width="100%"></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
   <a href="https://wizops.fr"><img alt="wizops.fr" src="https://raw.githubusercontent.com/jgourmelen/jgourmelen/main/assets/btn-site.svg" height="46"></a>
 </p>
 
-Je suis **Julien Gourmelen**, ingénieur **DevOps / SRE** et platform engineer freelance, basé à Paris, en France (sur place ou à distance). Avec ma société [**WizOps**](https://wizops.fr), je fais de l'**infogérance Kubernetes & Cloud** pour des startups, scale-ups, PME et acteurs publics : je construis ou je reprends l'infrastructure, tout en code, puis je l'opère au quotidien. Ingénieur Telecom Lille, j'ai plus de 15 ans d'expérience et plus de 100 projets réalisés, de la startup au grand compte.
+Je suis **Julien Gourmelen**, ingénieur **DevOps / SRE** et platform engineer freelance, basé près de Vannes, en Bretagne (à distance partout en France). Avec ma société [**WizOps**](https://wizops.fr), je fais de l'**infogérance Kubernetes & Cloud** pour des startups, scale-ups, PME et acteurs publics : je construis ou je reprends l'infrastructure, tout en code, puis je l'opère au quotidien. Ingénieur Telecom Lille, j'ai plus de 15 ans d'expérience et plus de 100 projets réalisés, de la startup au grand compte.
 
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgourmelen/jgourmelen/main/assets/stats-dark.svg"><img alt="15+ années d'expérience en Cloud, DevOps et SRE · 100+ projets réalisés · 100 % de satisfaction client, 46 avis positifs sur Malt · 10 000+ abonnés LinkedIn · 300+ articles de blog sur wizops.fr/blog" src="https://raw.githubusercontent.com/jgourmelen/jgourmelen/main/assets/stats-light.svg" width="100%"></picture>
